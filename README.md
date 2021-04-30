@@ -9,7 +9,7 @@ Web application that allows stock and inventory control, administration and bill
 *Follow the instructions to run a local copy on your computer.*
 
 1) Clone the repository
-`git clone https://github.com/AgustinCastellaro/Photopost.git`
+`git clone https://github.com/AgustinCastellaro/Sistema-de-ventas.git`
 
 2) Run XAMPP with MySQL option enabled.
 
