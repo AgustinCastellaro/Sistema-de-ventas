@@ -9,5 +9,5 @@ The project is currently under development. you can clone the code and read it i
 - CSS
 - Javascript
 - PHP
-- PostgreSQL
-
+- MySQL
+- 
